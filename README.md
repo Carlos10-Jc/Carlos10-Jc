@@ -29,4 +29,4 @@ Acredito que cada exercício é uma oportunidade de aprender algo novo. Estou co
 
 ---
 
-🚀 Em constante aprendizado. Um código de cada vez!**
+🚀 Em constante aprendizado. Um código de cada vez!
