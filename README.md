@@ -1,45 +1,37 @@
-<div align="center">
+Olá! Eu sou John Carlos 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A63,100:2B6CB0&height=190&section=header&text=John%20Carlos&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descSize=15&descAlignY=60&animation=fadeIn" width="100%" />
+🎓 Estudante de Desenvolvimento de Sistemas na EEEP Maria Carmen Vieira Moreira.
 
-John Carlos
+Atualmente estou aprendendo programação e dando meus primeiros passos na área de tecnologia. Tenho estudado Python, lógica de programação e ferramentas que fazem parte do dia a dia de um desenvolvedor.
 
-Estudante de Desenvolvimento de Sistemas 💻
-
-"Grandes projetos começam com pequenos passos e muita vontade de aprender."
-
-</div>
+Ainda estou no começo da jornada, mas gosto de aprender na prática, testar ideias e descobrir como as coisas funcionam.
 
 Sobre mim
-
-Olá! Sou John Carlos de Araújo da Silva, estudante de Desenvolvimento de Sistemas na EEEP Maria Carmen Vieira Moreira.
-
-Estou começando minha caminhada na programação, aprendendo um pouco a cada dia e colocando em prática os conhecimentos adquiridos no curso.
-
-Gosto de tecnologia, programação e de descobrir novas maneiras de resolver problemas através do código.
-
-Tecnologias
+🐍 Estudando Python.
+💻 Aprendendo lógica de programação.
+🔧 Conhecendo Git e GitHub.
+📚 Desenvolvendo projetos e atividades do curso técnico.
+🚀 Buscando aprender coisas novas e melhorar a cada projeto.
+Tecnologias que estou estudando
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=python,git,github,markdown" />
 </div>
 
-Atualmente estudando:
-
-Python
-Lógica de programação
-Git e GitHub
-Desenvolvimento de sistemas
-Estatísticas
+GitHub
 
 <div align="center">
-
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carlos10-Jc&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos10-Jc&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
-Meus projetos
+Projetos
 
-Aqui você encontra alguns exercícios, projetos acadêmicos e experiências que desenvolvo durante
+Por aqui compartilho alguns exercícios, projetos do curso e experiências que vou desenvolvendo enquanto aprendo programação.
+
+Cada repositório representa um pouco do que venho aprendendo.
+
+Contato
+GitHub: @Carlos10-Jc
+
+"Ainda tenho muito para aprender, e é justamente isso que me motiva."
