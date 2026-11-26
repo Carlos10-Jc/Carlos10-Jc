@@ -1,4 +1,4 @@
-# 💻 John Carlos | Desenvolvedor em formação
+# 💻 John Carlos | Desenvolvedor em Sistema
 
 Olá! Meu nome é **John Carlos de Araújo da Silva** e sou estudante do curso Técnico em Desenvolvimento de Sistemas na **EEEP Maria Carmem Vieira Moreira**.
 
