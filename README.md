@@ -91,4 +91,3 @@ Aqui compartilho meus exercícios, atividades acadêmicas, experimentos e projet
 "O sucesso na programação não está em escrever muito código, mas em nunca parar de aprender."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,50:243B55,100:141E30&height=120&section=footer" width="100%"/>
- mudar, ta com cara de ia
